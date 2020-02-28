@@ -1,0 +1,46 @@
+[Generic] Bot Documentation:
+
+V. 0.1.0 ALPHA
+
+Build Number: 4
+
+Commands in Progress:
+
+1) .Help
+- Sends documentation to user regarding the bot commands.
+
+2) MUSIC BOT COMMANDS:
+
+- .Play (COMING SOON, IN PROGRESS)
+    A. Use .Play [Youtube Link] and the bot will play music in the channel you're in.
+       Conditions: 
+        - If you're not in a channel the bot will not play music...
+        - If you don't input a valid link the bot will not play music...
+        - If you don't input a link the bot will not play music...
+
+- .Skip (COMING SOON, IN PROGRESS)
+    A. With ADMIN permissions, this will skip the current song and play the next in queue.
+
+- .Stop (COMING SOON, IN PROGRESS)
+    A. With ADMIN permissions, this will stop playing the music and the bot will leave the chat.
+
+3) .Info Version
+- Sends the user the current version of the bot...
+
+4) .Command (LIBRARY)/(MORE TO BE ADDED):
+- .Command Purge [QUANTITY]
+    Conditions:
+    - You shouldn't only prompt the bot with .COMMAND otherwise it won't work.
+    - You need to directly enter .Command Purge [QUANTITY] in order for the bot to clean up chat.
+    - [QUANTITY] = amount of messages you would like removed...
+        For Example) .Command Purge 10 //OUTPUT: WILL DELETE 10 MESSAGES...
+
+
+
+Keywords in Progress:
+
+1) Stinky: Randomized set of phrases (More to be added...)
+2) Nico: I mean, it says it in the word...
+3) Hentai: For a good time ;)
+4) Gentlemen: This server is strictly meant for gentlemen, no
+racism will be tolerated!
