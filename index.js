@@ -30,7 +30,7 @@ Message[3] = "I'm sorry but I think you mean " + name;
 
 //#region Token ID
 
-const token = 'NjgxOTE4MDY4NTU2ODI0NTc2.XlVfBg.KjEonN6BzjN7cAQVd68dGkiVjyE';
+const token = process.env.token;
 
 //#endregion
 
